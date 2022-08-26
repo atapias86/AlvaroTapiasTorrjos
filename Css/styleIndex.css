@@ -17,6 +17,12 @@ body {
     border: 1px black solid; 
     box-shadow: -5px 5px 5px black;
     border-radius: 15px;  
+    transition: all .5s;
+}
+
+.div_principal:hover{
+    transition: all .5s;
+    transform: scale(1.5);
 }
 
 .div_img{
