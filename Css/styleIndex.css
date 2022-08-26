@@ -1,0 +1,45 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: azure;
+}
+
+.div_principal{
+    width: 20%;
+    margin: auto;
+    margin-top: 10%;
+    background-color: aqua;
+    border: 1px black solid; 
+    box-shadow: -5px 5px 5px black;
+    border-radius: 15px;  
+}
+
+.div_img{
+    text-align: center;
+    margin-top: 1%;
+    margin-bottom: 2%;
+}
+
+.div_img img{
+    width: 40%;
+    border: .5px black solid;
+    border-radius: 10%;
+}
+
+.contenido {
+    padding: 5%;
+    text-align: center;
+}
+
+.contenido b {
+    font-size: 16px;
+    color: black;
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 3px;
+}
